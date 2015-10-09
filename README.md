@@ -1,3 +1,3 @@
 # orta
 
-Orta is simple svg data chart library.
+Orta is a simple svg data chart library.
